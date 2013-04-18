@@ -8,8 +8,8 @@ monadic
 Monadic aims to be an implementation of a monadic parser in PowerShell
 
 Target Syntax is something like:
-**Create Parser**
 
+**Create Parser:**
     $integerParser = parser integer {
         param($input = $null, $context = $null)
         switch ($input.Text){
@@ -25,6 +25,7 @@ Target Syntax is something like:
         }
     }
 
-**Parse**
+**Parse:**
+
     $integerParser | "12345"   
     
