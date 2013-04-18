@@ -1,0 +1,7 @@
+Index,Ref,Data Field,Cell Format
+1,A,Comment,Text
+2,B,Activity,Text
+3,C,Transaction Type,Text
+4,D,Product Type,Text
+5,E,Document Date,YYYY-MM-DD
+5,F,Document Type,Text

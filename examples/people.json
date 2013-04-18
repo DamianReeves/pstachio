@@ -1,0 +1,7 @@
+{
+  "people": [
+    {"firstName": "Yehuda", "lastName": "Katz", "Age": 10},
+    {"firstName": "Carl", "lastName": "Lerche", "Age": 20},
+    {"firstName": "Alan", "lastName": "Johnson", "Age": 30}
+  ]
+}
